@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jaychang99/npm-package-playground#readme",
   "dependencies": {
-    "@jaychang99/my-first-npm-package": "^1.0.0"
+    "@jaychang99/my-first-npm-package": "1.1.1"
   }
 }
